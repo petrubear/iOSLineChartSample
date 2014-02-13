@@ -1,0 +1,21 @@
+PODS:
+  - ios-linechart (1.2.0):
+    - objc-utils (~> 0.3.3)
+  - JBChartView (1.1.5)
+  - objc-utils (0.4.5):
+    - objc-utils/CoreFoundation
+    - objc-utils/UIKit
+  - objc-utils/CoreFoundation (0.4.5)
+  - objc-utils/UIKit (0.4.5)
+
+DEPENDENCIES:
+  - ios-linechart
+  - JBChartView
+  - objc-utils
+
+SPEC CHECKSUMS:
+  ios-linechart: 82c07f8add08d82fb987f195ea82913fe199186a
+  JBChartView: 8c349166787e239d9e0f2ad50e14bc57eac7b964
+  objc-utils: 03a0db90b41d93994c08c2d53da543cbade1a8d2
+
+COCOAPODS: 0.29.0
